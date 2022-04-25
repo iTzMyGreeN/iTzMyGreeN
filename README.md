@@ -53,4 +53,8 @@
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studo Code" width="40" height="40"/> 
   </a>
+  <br>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmygreen&layout=compact" alt=""/>
+  </a>
 </p>
