@@ -1,6 +1,21 @@
-<h1 align="center" style="border: none;padding-bottom: 0px;">
+<h1 align="center">
   iTzMyGreeN
 </h1>
+<p><img align="center" src="https://raw.githubusercontent.com/iTzMyGreeN/informations/main/divider.webp" alt="iTzMyGreeN"/></p>
+
+<h3 align="center">About:</h3>
+<ul>
+  <li>Director and Website Developer at GreenScrims</li>
+  <li>17 years old</li>
+  <li>Building Engineering Technician</li>
+  <li>Contacts:</li>
+    <ul>
+      <li><b>🤖 Discord:</b> 𝕙𝕒𝕛𝕕𝕦#2877</li>
+      <li><b>✉ Email:</b> <a href="mailto:itzmygreen@gmail.com" target="_blank">itzmygreen@gmail.com</a></li>
+      <li><b>🌍 Website:</b> <a href="https://greenscrims.hu/" target="_blank">GreenScrims.hu</a></li>
+    </ul>
+</ul>
+
 <p><img align="center" src="https://raw.githubusercontent.com/iTzMyGreeN/informations/main/divider.webp" alt="iTzMyGreeN"/></p>
 
 <h3 align="center">Languages and Tools:</h3>
