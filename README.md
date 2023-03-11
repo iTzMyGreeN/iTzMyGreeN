@@ -12,7 +12,7 @@
     <ul>
       <li><b>🤖 Discord:</b> 𝕙𝕒𝕛𝕕𝕦#2877</li>
       <li><b>✉ Email:</b> <a href="mailto:itzmygreen@gmail.com" target="_blank">itzmygreen@gmail.com</a></li>
-      <li><b>🌍 Website:</b> <a href="https://greenscrims.hu/" target="_blank">GreenScrims.hu</a></li>
+      <li><b>🌍 Website:</b> <a href="https://greenscrims.eu/" target="_blank">GreenScrims.eu</a></li>
     </ul>
 </ul>
 
