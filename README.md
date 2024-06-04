@@ -6,14 +6,8 @@
 <h3 align="center">About:</h3>
 <ul>
   <li>Director and Website Developer at GreenScrims</li>
-  <li>17 years old</li>
+  <li>19 years old</li>
   <li>Building Engineering Technician</li>
-  <li>Contacts:</li>
-    <ul>
-      <li><b>🤖 Discord:</b> 𝕙𝕒𝕛𝕕𝕦#2877</li>
-      <li><b>✉ Email:</b> <a href="mailto:itzmygreen@gmail.com" target="_blank">itzmygreen@gmail.com</a></li>
-      <li><b>🌍 Website:</b> <a href="https://greenscrims.eu/" target="_blank">GreenScrims.eu</a></li>
-    </ul>
 </ul>
 
 <p><img align="center" src="https://raw.githubusercontent.com/iTzMyGreeN/informations/main/divider.webp" alt="iTzMyGreeN"/></p>
